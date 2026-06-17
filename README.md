@@ -4,7 +4,7 @@ VSE II is an innovative, highly efficient, and noise-immune data transmission pr
 
 This protocol is specifically engineered to achieve extreme energy efficiency and robust clock synchronization over physical channels.
 
-## 🏆 Proven Benchmarks (Live Test Results)
+##  Proven Benchmarks (Live Test Results)
 
 During rigorous live simulations on standard text datasets, the VSE II protocol demonstrated spectacular hardware and temporal efficiency over traditional sequential networks:
 
@@ -13,7 +13,7 @@ During rigorous live simulations on standard text datasets, the VSE II protocol 
 * **NET TIME SAVED:** **94.0% Faster Transmission** because the intelligent profile manager layers common characters directly at the floor of the corridor.
 * **Physical Wire Savings:** **87.5% fewer impulses sent over the wire.** Instead of pumping a continuous, power-heavy stream of **1,120 standard bits**, VSE II transfers the exact same data using only **140 pulses**, leaving the bus completely silent and power-free for the remaining 87.5% of the time.
 
-## 🛠️ Key Architectural Features
+##  Key Architectural Features
 
 1. **Dual Physical Bus Wires (Wire A & Wire B):** The standard 256-byte variations are split across two opposite physical charts (Column A for even indexes, Column B for odd indexes), cutting the maximum physical corridor height strictly down to 128.
 2. **Adaptive Profile Selection (8-Position Adjuster):** Before transmission, the sender automatically scans the raw file structure, analyzes the code patterns, and instantly matches the data stream to 1 of 8 predefined profile states. This repositions the heaviest data clusters directly to the bottom of the time scale (near step 0).
@@ -27,14 +27,14 @@ During rigorous live simulations on standard text datasets, the VSE II protocol 
 5. **10-Tick Stabilization Grid (Zero Clock Drift):** To prevent clock desynchronization during long silent periods, a rock-solid embedded synchronization grid triggers a neutral `0.0V` pulse if the line stays inactive for 120.0 time units (10 full cycles). The receiver uses this grid pulse to recalibrate its clock timer instantly.
 6. **No Back-Tracking (Strict Ascending Scan):** The clock sweeps strictly forward from bottom to top (0 to 127) within each 4-byte block, closing and resetting the window dynamically as soon as the last required byte hits.
 
-## 📂 File Structure
+##  File Structure
 
 * `vse_ii_protocol.py` - The core noise-protected transmission simulation engine (Sender & Receiver).
 * `README.md` - Protocol documentation, engineering overview, and benchmarks.
 
 ---
 
-## ⚖️ Legal & Licensing
+##  Legal & Licensing
 
 **Copyright © 2026 Morphsec88. All Rights Reserved.**
 
