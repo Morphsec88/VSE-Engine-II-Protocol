@@ -1,3 +1,6 @@
+
+<img width="930" height="726" alt="Képernyőfelvétel (237)" src="https://github.com/user-attachments/assets/c728cf96-c894-46e6-a73d-fffb2ab3af46" />
+
 # VSE II Protocol - Optical Photon Variant (v5.3)
 ## Core Simulation Engine - Production Hardware-Testable & ARQ Error-Corrected
 
