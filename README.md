@@ -1,4 +1,6 @@
 
+<img width="1072" height="622" alt="Képernyőfelvétel (238)" src="https://github.com/user-attachments/assets/eb322c45-1f98-4ba1-8131-7458a071f44b" />
+
 # VSE II Protocol (Voltage-Controlled Statistical Encoding II)
 
 VSE II is an innovative, high-efficiency, and anti-noise data transmission protocol. By combining adaptive statistical data positioning with a physical two-wire zigzag corridor architecture, it shifts the data carrier burden from continuous electrical impulses exclusively onto the elapsed time dimension.
